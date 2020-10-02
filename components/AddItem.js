@@ -41,7 +41,7 @@ const styles = StyleSheet.create({
     fontSize: 16,
   },
   btn: {
-    backgroundColor: '#c2bad8',
+    backgroundColor: '#b7add1',
     padding: 9,
     margin: 5,
   },
